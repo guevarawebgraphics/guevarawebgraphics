@@ -1,0 +1,1 @@
+Hi, I’m Richard Guevara, Experienced Professional Full Stack Web Developer. I've been developing & handling multiple E-Commerce, Learning, Content, and Project Management Systems. I'm into devOps too as I have knowledge when it comes to linux and Amazon Web Services. I also know how DNS & SSL works especially with complex setup and if implemented using AWS.
