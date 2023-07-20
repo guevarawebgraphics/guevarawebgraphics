@@ -47,13 +47,13 @@ Become <b>TOP TIER</b>, We will Conquer and Decimate the competition in your BUS
 <div style="display: flex;">
                     <div style="flex: 1; padding: 10px;">
                         <a href="https://netflix.com/" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
-                            <img src="https://guevarawebgraphics.com/images/blue_pill.webp" class="pill-img" alt="Blue pill take if you decided to watch netflix and occupied your mind with lies">
+                            <img src="https://guevarawebgraphics.com/images/blue_pill.webp" style="width: 100px; height: 100%;" class="pill-img" alt="Blue pill take if you decided to watch netflix and occupied your mind with lies">
                             <h5>GO WATCH NETFLIX</h5>
                         </a>
                     </div>
                     <div style="flex: 1; padding: 10px;">
                         <a href="contact-us" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
-                            <img src="https://guevarawebgraphics.com/images/red_pill.webp" class="pill-img" alt="Red pill take if you decided to join my conquest and learn the reality of the universe">
+                            <img src="https://guevarawebgraphics.com/images/red_pill.webp" style="width: 100px; height: 100%;"  class="pill-img" alt="Red pill take if you decided to join my conquest and learn the reality of the universe">
                             <h5>JOIN MY CONQUEST NOW!</h5>
                         </a>
                     </div>
