@@ -25,19 +25,6 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
 
 ---
-
-### Testimonies to My Triumphs 🏆
-
-![gwgs-3-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/3dd5577b-5c45-4327-bbcb-3c3e2bbb6252)
-
-![gwgs-1-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/97b9709d-0f75-4938-946d-0a0a7df26309)
-
-![gwgs-4-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/6268c410-82b6-4f3e-8348-e1cc0ea779b2)
-
-![gwgs-2-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/a17cc214-b16f-4a05-b308-0944a5822f2c)
-
-
----
 <!--
 Here are some ideas to get you started:
 
