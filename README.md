@@ -1,1 +1,29 @@
-Hi, I’m Richard Guevara, Experienced Professional Full Stack Web Developer. I've been developing & handling multiple E-Commerce, Learning, Content, and Project Management Systems. I'm into devOps too as I have knowledge when it comes to linux and Amazon Web Services. I also know how DNS & SSL works especially with complex setup and if implemented using AWS.
+### Hey there, I'm King Richard! 👋👑
+
+🧠 I strongly believe in the POWER OF BROTHERHOOD in CONQUERING the world of technology, and my obsession with WINNING always drives me towards accidental success.
+
+### TechStack ⚡
+
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
+
+---
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
