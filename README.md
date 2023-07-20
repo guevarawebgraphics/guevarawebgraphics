@@ -30,7 +30,7 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 ---
 
 ### The Choice Is Yours 🌟
-
+<div style="text-align:center;">
 They won't have the opportunity to know what it feels like to have
 <b>driven, diligent, and accomplished individuals</b> by their side.
 
@@ -42,15 +42,16 @@ Competition to increase their Business Revenue and Publicity
 Become <b>TOP TIER</b>, We will Conquer and Decimate the competition in your BUSINESS INDUSTRY.
 
 <b>Do you want to Grow your Business?</b>
+</div> 
 
-<div class="row content-medicine">
-                    <div class="col">
+<div style="display: flex;">
+                    <div style="flex: 1; padding: 10px;">
                         <a href="https://netflix.com/" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
                             <img src="https://guevarawebgraphics.com/images/blue_pill.webp" class="pill-img" alt="Blue pill take if you decided to watch netflix and occupied your mind with lies">
                             <h5>GO WATCH NETFLIX</h5>
                         </a>
                     </div>
-                    <div class="col">
+                    <div style="flex: 1; padding: 10px;">
                         <a href="contact-us" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
                             <img src="https://guevarawebgraphics.com/images/red_pill.webp" class="pill-img" alt="Red pill take if you decided to join my conquest and learn the reality of the universe">
                             <h5>JOIN MY CONQUEST NOW!</h5>
