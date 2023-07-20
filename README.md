@@ -7,7 +7,10 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 
 ### <a href="https://guevarawebgraphics.com/contact-us" target="_blank" style="color:#000;">BOOK FREE CONSULTATION NOW! 🤙</a>
 
-Trusted by 47+ companies, individual clients and small business firms.
+
+📈 I have gained the trust of over 47 companies, small business firms, and individual clients across the United States and the Philippines.
+
+✔️ I have had the privilege to work with various nationalities, including Americans, Koreans, Japanese, Indians, Nigerians and Filipinos.
 
 🧠 I strongly believe in the <b>POWER OF BROTHERHOOD</b> in <b>CONQUERING</b> the world of technology, and my obsession with WINNING always drives me towards accidental success.
 
@@ -25,15 +28,27 @@ Trusted by 47+ companies, individual clients and small business firms.
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
 
 ---
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Choice Is Yours 🌟
+
+They won't have the opportunity to know what it feels like to have
+<b>driven, diligent, and accomplished individuals</b> by their side.
+
+
+They'll miss out on being surrounded by people who have extensive skills and knowledge in the Digital
+Competition to increase their Business Revenue and Publicity
+
+
+Become <b>TOP TIER</b>, We will Conquer and Decimate the competition in your BUSINESS INDUSTRY.
+
+<b>Do you want to Grow your Business?</b>
+
+<a href="https://netflix.com"><b>Go Watch Netflix </b></a>
+
+<a href="https://guevarawebgraphics.com/contact-us"><b>JOIN MY CONQUEST NOW!</b></a>
+
+https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/c4ef87f6-fd99-4877-8667-a0e375d10f29
+
+
+
+---
