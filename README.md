@@ -1,5 +1,5 @@
 
-![Uploading black-logo-v2.png…]()
+![black-logo](https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476)
 
 
 ### Hey there, I'm King Richard! 👋👑
@@ -35,7 +35,8 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 
 ![gwgs-4-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/6268c410-82b6-4f3e-8348-e1cc0ea779b2)
 
-![Uploading gwgs-2-testimonial.png…]()
+![gwgs-4-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/fc97cf0c-94b7-4fb9-9917-b7593da9e58b)
+
 
 ---
 <!--
