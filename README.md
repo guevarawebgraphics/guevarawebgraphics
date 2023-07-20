@@ -1,6 +1,5 @@
-<center>
-![black-logo](https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476)
-</center>
+
+<center><img src="https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476"></center>
 
 ### Hey there, I'm King Richard! 👋👑
 
