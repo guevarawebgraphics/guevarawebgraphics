@@ -9,7 +9,7 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 
 Trusted by 47+ companies, individual clients and small business firms.
 
-🧠 I strongly believe in the <b>POWER OF BROTHERHOOD<b> in <b>CONQUERING</b> the world of technology, and my obsession with WINNING always drives me towards accidental success.
+🧠 I strongly believe in the <b>POWER OF BROTHERHOOD</b> in <b>CONQUERING</b> the world of technology, and my obsession with WINNING always drives me towards accidental success.
 
 ---
 
