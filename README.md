@@ -1,12 +1,18 @@
+
+![Uploading black-logo-v2.png…]()
+
+
 ### Hey there, I'm King Richard! 👋👑
 
-Who craft beautiful websites and personalized SEO services to help you succeed online. My values include simplicity, transparency, and long-term partnerships. My goal is to deliver user-focused solutions that drive growth and revenue for your business.
+A Full Stack Web Developer specializing in both Backend and Frontend Development, as well as managing and scaling Cloud-based servers. Who craft beautiful websites and personalized SEO services to help you succeed online. My values include simplicity, transparency, and long-term partnerships. My goal is to deliver user-focused solutions that drive growth and revenue for your business.
 
-### <a href="https://guevarawebgraphics.com/contact-us" target="_blank">BOOK FREE CONSULTATION NOW! 🤙</a>
+### <a href="https://guevarawebgraphics.com/contact-us" target="_blank" style="color:#000;">BOOK FREE CONSULTATION NOW! 🤙</a>
 
-<em><b>Trusted by 47+</b> companies, individual clients and small business firms.</em>
+<b>Trusted by 47+ companies, individual clients and small business firms.</em>
 
 🧠 I strongly believe in the <b>POWER OF BROTHERHOOD<b> in <b>CONQUERING</b> the world of technology, and my obsession with WINNING always drives me towards accidental success.
+
+---
 
 ### TechStack ⚡
 
@@ -21,6 +27,17 @@ Who craft beautiful websites and personalized SEO services to help you succeed o
 
 ---
 
+### Testimonies to My Triumphs 🏆
+
+![gwgs-3-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/3dd5577b-5c45-4327-bbcb-3c3e2bbb6252)
+
+![gwgs-1-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/97b9709d-0f75-4938-946d-0a0a7df26309)
+
+![gwgs-4-testimonial](https://github.com/kingrgdev/kingrgdev/assets/42199746/6268c410-82b6-4f3e-8348-e1cc0ea779b2)
+
+![Uploading gwgs-2-testimonial.png…]()
+
+---
 <!--
 Here are some ideas to get you started:
 
