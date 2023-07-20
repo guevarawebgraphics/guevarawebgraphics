@@ -43,9 +43,20 @@ Become <b>TOP TIER</b>, We will Conquer and Decimate the competition in your BUS
 
 <b>Do you want to Grow your Business?</b>
 
-<a href="https://netflix.com"><b>Go Watch Netflix </b></a>
-
-<a href="https://guevarawebgraphics.com/contact-us"><b>JOIN MY CONQUEST NOW!</b></a>
+<div class="row content-medicine">
+                    <div class="col">
+                        <a href="https://netflix.com/" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
+                            <img src="images/blue_pill.webp" class="pill-img" alt="Blue pill take if you decided to watch netflix and occupied your mind with lies">
+                            <h5>GO WATCH NETFLIX</h5>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="contact-us" class="medicine--pill__blue aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-delay="300">
+                            <img src="images/red_pill.webp" class="pill-img" alt="Red pill take if you decided to join my conquest and learn the reality of the universe">
+                            <h5>JOIN MY CONQUEST NOW!</h5>
+                        </a>
+                    </div>
+                </div>
 
 https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/c4ef87f6-fd99-4877-8667-a0e375d10f29
 
