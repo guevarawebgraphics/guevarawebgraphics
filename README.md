@@ -1,6 +1,12 @@
 ### Hey there, I'm King Richard! 👋👑
 
-🧠 I strongly believe in the POWER OF BROTHERHOOD in CONQUERING the world of technology, and my obsession with WINNING always drives me towards accidental success.
+Who craft beautiful websites and personalized SEO services to help you succeed online. My values include simplicity, transparency, and long-term partnerships. My goal is to deliver user-focused solutions that drive growth and revenue for your business.
+
+### <a href="https://guevarawebgraphics.com/contact-us" target="_blank">BOOK FREE CONSULTATION NOW! 🤙</a>
+
+<em><b>Trusted by 47+</b> companies, individual clients and small business firms.</em>
+
+🧠 I strongly believe in the <b>POWER OF BROTHERHOOD<b> in <b>CONQUERING</b> the world of technology, and my obsession with WINNING always drives me towards accidental success.
 
 ### TechStack ⚡
 
