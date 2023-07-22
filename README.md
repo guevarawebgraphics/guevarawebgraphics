@@ -1,5 +1,9 @@
 
+<!--
 <center><img src="https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476"></center>
+-->
+![fire-3](https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/b246f69e-bbf5-43f0-a61d-556a375babc7)
+
 
 ### Hey there, I'm King Richard! 👋👑
 
