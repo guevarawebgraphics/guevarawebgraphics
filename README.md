@@ -2,7 +2,8 @@
 <!--
 <center><img src="https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476"></center>
 -->
-![fire-3](https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/b246f69e-bbf5-43f0-a61d-556a375babc7)
+
+![sample_banner_2](https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/7d0f7aba-4fb1-4f63-9963-704014964736)
 
 
 ### Hey there, I'm King Richard! 👋👑
