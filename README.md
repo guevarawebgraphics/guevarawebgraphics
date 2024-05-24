@@ -5,9 +5,6 @@
 <center><img src="https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476"></center>
 -->
 
-![sample_banner_2](https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/7d0f7aba-4fb1-4f63-9963-704014964736)
-
-
 ### Hey there, I'm King Richard! 👋👑
 
 A Full Stack Web Developer specializing in both Backend and Frontend Development, as well as managing and scaling Cloud-based servers. Who craft beautiful websites and personalized SEO services to help you succeed online. My values include simplicity, transparency, and long-term partnerships. My goal is to deliver user-focused solutions that drive growth and revenue for your business.
