@@ -1,5 +1,4 @@
-
-![banenr](https://github.com/guevarawebgraphics/guevarawebgraphics/assets/42199746/7af76239-3efa-4c33-8810-106aa0d13195)
+![banner](https://github.com/user-attachments/assets/a23ceb35-5e8f-402d-9854-35f59314836c)
 
 <!--
 <center><img src="https://github.com/kingrgdev/kingrgdev/assets/42199746/9022cd30-8f22-4598-9ae9-7512568b9476"></center>
