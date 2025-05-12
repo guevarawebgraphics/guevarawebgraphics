@@ -21,19 +21,31 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 
 ### TechStack ⚡
 
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS">
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF" alt="ReactJS">
+## Frontend
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF" alt="HTML5"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF" alt="CSS3">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap">
 <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=FFFFFF" alt="Bulma">
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF" alt="VueJS">
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF" alt="ReactJS">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=FFFFFF" alt="jQuery">
+<img src="https://img.shields.io/badge/-Webflow-21303E?style=flat-square&logo=webflow&logoColor=FFFFFF" alt="Webflow">
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=FFFFFF" alt="WordPress">
+<img src="https://img.shields.io/badge/-Wix-333333?style=flat-square&logo=wix&logoColor=FFFFFF" alt="Wix">
+
+## Backend
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF" alt="PHP">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=FFFFFF" alt="Laravel">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL">
+<img src="https://img.shields.io/badge/-API%20Integrations-FF6C37?style=flat-square&logo=postman&logoColor=FFFFFF" alt="API Integrations">
+<img src="https://img.shields.io/badge/-OpenAI%20Integrations-000000?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Integrations">
+
+## DevOps
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git">
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS">
+
 
 ---
 
