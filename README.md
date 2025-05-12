@@ -29,6 +29,11 @@ A Full Stack Web Developer specializing in both Backend and Frontend Development
 <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS">
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF" alt="ReactJS">
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=FFFFFF" alt="Bulma">
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=FFFFFF" alt="jQuery">
 
 ---
 
